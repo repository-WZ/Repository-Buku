@@ -1,2 +1,2 @@
 # Repository-Buku MSDM-1
-Buku terpublish-1-Wandy Zulkarnaen
+Buku publish-1-Wandy Zulkarnaen
